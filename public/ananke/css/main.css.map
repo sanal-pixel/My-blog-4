@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/SEM 2/IS LAB/Git/quickstart",
+	"sourceRoot": "D:/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
