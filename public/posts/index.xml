@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://Site.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 08:27:13 +0530</lastBuildDate>
-    <atom:link href="https://Site.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Mar 2026 10:55:43 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 2</title>
+      <link>http://localhost:1313/posts/unit-2/</link>
+      <pubDate>Tue, 17 Mar 2026 10:55:43 +0530</pubDate>
+      <guid>http://localhost:1313/posts/unit-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Transforming images&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Learning about images was really interesting to say the least. Images is something thats new to me so being introduced to it was very exciting. I always thought images were just simple pictures made of pixles, turns out i was really wrong. Images could be manipulated using mathematical operations. Images can be treated as data that can be changed in multiple ways like changing brightness, contrast or modifiying intensity values. Since ive learnt computer science language it made sense to me that images could be represented as numbers for example, pixel values are from 0-255.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Information Blog</title>
-      <link>https://Site.org/posts/information-blog/</link>
+      <link>http://localhost:1313/posts/information-blog/</link>
       <pubDate>Tue, 17 Mar 2026 08:27:13 +0530</pubDate>
-      <guid>https://Site.org/posts/information-blog/</guid>
+      <guid>http://localhost:1313/posts/information-blog/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Blog on what is information&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;One thing i really enjoyed learning in Unit 1 was markdown. Being a new topic it was tricky in the begining but then i slowly got the hang of it during the lab classes. when i first started learning about markdown it was a little challenging but it was interesting. it gave a new perspective to how we write new documents. Using specific symbols instead of the plain old menu and buttons. Even though it was a new topic i could relate it to some things i already knew. it sort of reminded me of programming where symbols give outputs. in the same way in markdownwe use characters like hash or asteriks to control the text.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://Site.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 12:16:49 +0530</pubDate>
-      <guid>https://Site.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;#introduction#&lt;/p&gt;&#xA;&lt;p&gt;Hi i am Sanal. Im 18 years old, living in bangalore. Im currently studying Bsc Information science at Azim Premji University, Bangalore. My hobbies are playing video games, hanging out with friends and reading comics. My interests lie in motorsports and vehicles.&lt;/p&gt;</description>
     </item>
   </channel>
